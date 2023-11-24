@@ -5,9 +5,6 @@ I'm Max Behrendt.
 
 <div style="display: flex">
   <a href="https://github.com/maxbehr801/maxbehr801">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxbehr801&hide=css,html&title_color=81b29a&bg_color=3d405b&text_color=f2cc8f&icon_color=e07a5f&line_height=28" />
-  </a>
-  <a href="https://github.com/maxbehr801/maxbehr801">
     <img alt="Max's github stats" src="https://github-readme-stats.vercel.app/api?username=maxbehr801&show_icons=true&title_color=81b29a&bg_color=3d405b&text_color=f2cc8f&icon_color=e07a5f&line_height=27" />
   </a>
 </div>
